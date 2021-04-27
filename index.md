@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/anitha-subramanianled/anitha-subramanianled.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My Page
+I am Anitha working as full time researcher at VIT-AP University.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
