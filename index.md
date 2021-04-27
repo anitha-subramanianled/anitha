@@ -1,7 +1,7 @@
 ## Welcome to My Page
 Completed Master of engineering at R.M.K engineering college.
 
-currently,working as full time researcher at VIT-AP University.
+currently,working as full time researcher at Vellore institute of technology- Andhra pradesh(VIT-AP) university, amaravati,India.
 
 
 ### Markdown
