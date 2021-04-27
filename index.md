@@ -1,7 +1,7 @@
 ## Welcome to My Page
-I am Anitha working as full time researcher at VIT-AP University.
+Completed Master of engineering at R.M.K engineering college.
+currently,I am working as full time researcher at VIT-AP University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
