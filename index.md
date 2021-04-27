@@ -4,12 +4,9 @@ Completed Master of engineering at R.M.K engineering college.
 currently,working as full time researcher at Vellore institute of technology- Andhra pradesh(VIT-AP) university, amaravati,India.
 
 
-### Markdown
+ABOUT ME
+Anitha subramanian completed her master degree in applied electronics at R.M.k Engineering college in the year 2019 and currently she is working as a full time research scholar at VIT-AP university. she delivered a webinar entitled "DIGITAL ELECTRONICS" at R.M.K engineering college. currently, she is doing her research under the domain biomedical image processing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
